@@ -1,12 +1,11 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/talhagames/dragon-game/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+you will enjoy here very much as world builds software here
+Whenever you play  this repository, please like it if you enjoyed it and keep sharing and iking it for games like this
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweht and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
